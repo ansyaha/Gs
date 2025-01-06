@@ -9,7 +9,7 @@ import org.jsoup.nodes.Element
 import java.net.URI
 
 class TimefourTv : MainAPI() {
-    override var mainUrl = "https://dlhd.sx"
+    override var mainUrl = "https://time4tv.top/tv-channels.php"
     override var name = "Time4tv"
     override val hasDownloadSupport = false
     override val hasMainPage = true
