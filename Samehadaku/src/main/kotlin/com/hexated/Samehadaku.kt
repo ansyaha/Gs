@@ -10,7 +10,7 @@ import com.lagradost.cloudstream3.utils.loadExtractor
 import org.jsoup.nodes.Element
 
 class Samehadaku : MainAPI() {
-    override var mainUrl = "https://samehadaku.show"
+    override var mainUrl = "https://samehadaku.college"
     override var name = "Samehadaku"
     override val hasMainPage = true
     override var lang = "id"
